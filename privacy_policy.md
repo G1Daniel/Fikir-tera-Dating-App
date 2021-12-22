@@ -62,3 +62,23 @@ Although we’re not obligated to monitor access to or use of the Services or to
 ## 7. Feedback
 We welcome feedback, comments and suggestions for improvements to the Services (“Feedback”). You can submit Feedback by submitting feedback in our app.  You grant to us a non-exclusive, transferable, worldwide, perpetual, irrevocable, fully-paid, royalty-free license, with the right to sublicense, under any and all intellectual property rights that you own or control to use, copy, modify, create derivative works based upon and otherwise exploit the Feedback for any purpose.
 
+# Privacy Policy
+## Last Updated: December 22, 2021
+This privacy policy (“Privacy Policy”) describes the information collected by App Zone Technology PLC, (“we,” “us,” or “our”), how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. By using our mobile apps, and/or other services we provide (collectively, “Fikir tera|ፍቅር ተራ Dating App”), you agree to the practices set forth in this Privacy Policy.
+
+it goes without saying, we can’t help you develop meaningful connections without some information about you, such as basic profile details and the types of people you’d like to meet. Information you give us
+
+## Information we collect and how we collect it:
+Information collected automatically:
+When you use Kum Neger, we automatically collect and store certain information about your computer or mobile device and your activities. We may use this and other information described in this Privacy Policy to infer information, such as your interests.
+This information includes:
+– Geolocation. With your permission, your mobile device’s geographic location (GPS) when you first register for Kum Neger through our mobile app or when you enable location services within the app.
+
+Information you choose to provide:
+Information You Provide to Us. When you register with certain Kum Neger apps, you must provide certain information, including your username and password, religion, job, birthday, hobbies, height, weight, birth date, gender, age preference and gender preference. We will also ask you to upload photos for your profile and may collect any information (including location metadata and inferred characterizations or data) contained in these files. You may provide additional information about yourself (such as your school, occupation, current city, etc.) in order to build your Kum Neger profile. You may also provide “special categories of personal data” under applicable law, such as your race, ethnicity, religion, philosophical or political views, and information relating to your sex life or sexual orientation.  By affirmatively providing Fikir Tera with this information, you explicitly consent to our use of it for the purpose of fine tuning your match criteria with other bagels. Any information that you provide in the non-personal identifiable section of your profile will be viewable by your match. When using Fikir Tera, you may also provide payment information (where required for the purpose of payment). We collect and process your messages with other users as part of the operation of Fikir tera|ፍቅር ተራ Dating App.
+
+Sharing Your Information
+The information we collect is used to provide and improve the content and the quality of Fikir tera|ፍቅር ተራ Dating App, and without your consent we will not otherwise share your personal information to/with any other parties except: (a) to provide Fikir tera|ፍቅር ተራ Dating, (b) when we have your permission
+
+Kum Neger does not sell personal information to third parties. Kum Neger does permit third parties to collect the personal information described above through our service and shares personal information with third parties for business purposes as described in this Privacy Policy, including but not limited to providing advertising outside of our service based on users’ online activities over time and across different sites, services, and devices (so-called “interest-based advertising”). The information practices of these third parties are not covered by this Policy.
+
