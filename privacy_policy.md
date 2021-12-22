@@ -14,8 +14,8 @@ We strive to be transparent in the way we process your data. Because we use many
 We work hard to keep your information secure We have teams dedicated to keeping your data safe and secure. We constantly update our security practices and invest in our security efforts to enhance the safety of your information.
 
 ## 1. Some initial things we want to make clear. 
-  ○ You must be at least 18 to use the Services.
-  ○ You must be truthful in what you put in your Account.
+  ○ You must be at least 18 to use the Services. <br/>
+  ○ You must be truthful in what you put in your Account. <br/>
   ○ We do not conduct background checks or verify the identity of our Users.
   ○ We do not guarantee anything about the Services, including the actions of our Users. We do not guarantee matches, the frequency of your matches, that you will be compatible     with those you match with, or that the people you match with are safe people to meet. You must exercise your own diligence and caution in using the Services and             communicating with its Users.
   ○ You have a right in some states to cancel this Agreement within 3 business days of registering for a premium account and receive a refund of any payments to us if you do so
