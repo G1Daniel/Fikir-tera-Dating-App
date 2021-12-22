@@ -1,5 +1,5 @@
 ## Terms of Service
-# Last Updated: April 27, 2020
+### Last Updated: December 22, 2021
 These Terms of Service (this “Agreement”) is between you and App Zone Technology PLC. (“Fikir tera|ፍቅር ተራ Dating App” “we,” “us,” or “our”). By using our mobile application available on Android and iOS devices (each, our “App”), and/or other services we provide (collectively, the “Services”) you agree to be bound by this Agreement.  If you do not agree to be bound by this Agreement, you may not use the Services. Your use of, or participation in, certain Services may be subject to additional terms which will be presented to you when you access those Services.
 
 ## Our Commitment To You
@@ -13,4 +13,17 @@ We strive to be transparent in the way we process your data. Because we use many
 
 We work hard to keep your information secure We have teams dedicated to keeping your data safe and secure. We constantly update our security practices and invest in our security efforts to enhance the safety of your information.
 
-## 
+## 1. Some initial things we want to make clear. 
+  ○ You must be at least 18 to use the Services.
+  ○ You must be truthful in what you put in your Account.
+  ○ We do not conduct background checks or verify the identity of our Users.
+  ○ We do not guarantee anything about the Services, including the actions of our Users. We do not guarantee matches, the frequency of your matches, that you will be compatible     with those you match with, or that the people you match with are safe people to meet. You must exercise your own diligence and caution in using the Services and             communicating with its Users.
+  ○ You have a right in some states to cancel this Agreement within 3 business days of registering for a premium account and receive a refund of any payments to us if you do so
+  ○ Lastly, by using the Services, you are agreeing (with limited exception) to resolve any dispute between you and us through binding, individual arbitration, rather than in    court. 
+
+## 2. Eligibility
+ ○ You must be at least 18, or older if your jurisdiction requires.You must be at least 18 years old (or, if the age of majority is higher than 18 in your jurisdiction, then    the age of majority in your jurisdiction) create an Account and use the Services. By creating an Account and/or using the Services, you represent and warrant that you are    at least 18 years old (or the minimum age of majority in your jurisdiction, whichever is greater).
+ ○ You must be unattached and available.You may only use the Services if you are willing and capable of entering into a new romantic relationship and do not have an   established monogamous romantic partner (“Unattached”).
+
+## 3. Use of the Service
+ ○ Creating an Account on Fikir tera|ፍቅር ተራ Dating App.In order to use Fikir tera|ፍቅር ተራ Dating App, you must create an account with us (an “Account”) by providing your  phone number.
