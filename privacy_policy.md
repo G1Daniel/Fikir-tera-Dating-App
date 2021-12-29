@@ -83,7 +83,8 @@ You agree not to do any of the following:
      (iv) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil liability; </br>
      (v) infringes, misappropriates, or violates a third party’s trademark, patent, trade secret, copyright, moral rights or other proprietary rights, or rights of publicity  or privacy; </br> 
      (vi) contains any type of unauthorized or unsolicited advertising or commercial communications (such as spam or multi-level marketing); </br>
-     (vii) impersonates any person or entity, including any Fkir tera employees or representatives; or (vii) promotes illegal or harmful activities or substances; <br/>
+     (vii) impersonates any person or entity, including any Fkir tera employees or representatives; or 
+     (vii) promotes illegal or harmful activities or substances; <br/>
 - Collect User Content, personally-identifiable information or any other information, or otherwise access the Services, using automated means (such as harvesting bots, robots, spiders, scrapers, or other means); <br/>
 - Advertise any product or service, including any engagement in multi-level marketing or “pyramid schemes” on the Services; <br/>
 - Interfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Services; <br/>
