@@ -1,5 +1,5 @@
 # Terms of Service
-Last Updated: December 29, 2021 <br>
+Last Updated: December 30, 2021 <br>
 These Terms of Service (this “Agreement”) is between you and App Zone Technology PLC. (“Fkir tera|ፍቅር ተራ Dating App” “we,” “us,” or “our”). By using our mobile application available on Android and iOS devices (each, our “App”), and/or other services we provide (collectively, the “Services”) you agree to be bound by this Agreement.  If you do not agree to be bound by this Agreement, you may not use the Services. Your use of, or participation in, certain Services may be subject to additional terms which will be presented to you when you access those Services.
 
 # Interpretation and Definitions
@@ -119,7 +119,7 @@ Although we’re not obligated to monitor access to or use of the Services or to
 We welcome feedback, comments and suggestions for improvements to the Services (“Feedback”). You can submit Feedback by submitting feedback in our app.  You grant to us a non-exclusive, transferable, worldwide, perpetual, irrevocable, fully-paid, royalty-free license, with the right to sublicense, under any and all intellectual property rights that you own or control to use, copy, modify, create derivative works based upon and otherwise exploit the Feedback for any purpose.
 
 # Privacy Policy
-## Last Updated: December 29, 2021 </br>
+## Last Updated: December 30, 2021 </br>
 This privacy policy (“Privacy Policy”) describes the information collected by App Zone Technology PLC, (“we,” “us,” or “our”), how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. By using our mobile apps, and/or other services we provide (collectively, “Fkir tera|ፍቅር ተራ Dating App”), you agree to the practices set forth in this Privacy Policy.
 
 it goes without saying, we can’t help you develop meaningful connections without some information about you, such as basic profile details and the types of people you’d like to meet. Information you give us
