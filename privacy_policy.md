@@ -80,6 +80,7 @@ We work hard to keep your information secure We have teams dedicated to keeping 
     (ii) threatening, defamatory, abusive, harassing, degrading, intimidating, fraudulent, false, misleading, deceptive, invasive, racist, offensive, and/or pornographic content </br>
     (iii) contents that infringes, misappropriates, or violates a third party’s trademark, patent, trade secret, copyright, moral rights or other proprietary rights, or rights of publicity  or privacy </br>
     (iv) contents that promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group </br>
+    
  Any user can report content they deem objectionable for review. Content will be moderated to ensure the timely removal of any and all objectionable content. User accounts which have been confirmed responsible for posting objectionable content will be will be restricted from access to the Fkir tera|ፍቅር ተራ Dating App.
  
  ## 6. General Prohibitions
