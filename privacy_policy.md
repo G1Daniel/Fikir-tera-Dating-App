@@ -75,7 +75,7 @@ We work hard to keep your information secure We have teams dedicated to keeping 
  We may update this Agreement at any time, in our sole discretion. If we do so, we’ll let you know either by posting the updated Agreement on App or through other communications. It’s important that you review the Agreement whenever we update them or you use the Services. If you continue to use the Services after we have posted an updated Agreement, you are agreeing to be bound by the updated Agreement. If you don’t agree to be bound by the updated Agreement, then, you may not use the Services anymore. Because our Services are evolving over time we may change or discontinue all or any part of the Services, at any time and without notice, at our sole discretion.
  
  ## 5 Objectionable Content Policy
- Content or User which is objectionable will be blocked from Fkir tera|ፍቅር ተራ Dating App by moderators Objectionable Content. Objectionable Content includes, but is not  limited to:
+ Content or User which is objectionable will be blocked from Fkir tera|ፍቅር ተራ Dating App by moderators Objectionable Content. Objectionable Content includes, but is not  limited to: </br>
     (i) sexually explicit contents </br>
     (ii) threatening, defamatory, abusive, harassing, degrading, intimidating, fraudulent, false, misleading, deceptive, invasive, racist, offensive, and/or pornographic content </br>
     (iii) contents that infringes, misappropriates, or violates a third party’s trademark, patent, trade secret, copyright, moral rights or other proprietary rights, or rights of publicity  or privacy </br>
